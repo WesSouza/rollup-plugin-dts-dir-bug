@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../src/index.ts"],"sourcesContent":["export function test() {\n  return 1;\n}\n"],"names":[],"mappings":"AAAO,SAAS,IAAI,GAAG;AACvB,EAAE,OAAO,CAAC,CAAC;AACX;;;;"}
